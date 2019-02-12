@@ -152,7 +152,7 @@ public class Robot extends TimedRobot {
   {
 
     Motor_Controls();
-//    Solenoid_Controls();
+    Solenoid_Controls();
 
   }
 
